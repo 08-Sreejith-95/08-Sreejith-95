@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Sreejith 👋
 
-<!--
-**08-Sreejith-95/08-Sreejith-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Robotics & Autonomous Systems — University of Lübeck (Grade: 1.9)  
+🤖 Machine Learning & Deep Learning Engineer based in Hamburg, Germany  
+📬 sreejith8895@gmail.com | [LinkedIn](https://linkedin.com/in/sreejith-k-k)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I build and research deep learning systems.
+Currently open to ML/DL Engineer roles in Germany.
+
+---
+
+## 🔬 Featured Work
+
+| Project | Description | Tech |
+|---|---|---|
+| [Sewer Defect Detector](https://github.com/08-Sreejith-95/Sewer-Defects-Detector) | Multi-label image classification for pipe inspection — improved micro-F1 by **14.5%** | PyTorch, ConvNeXt, AMP |
+| Master's Thesis | Structured State Transition Matrix in Deep SSMs for long-term time series forecasting — **10% efficiency gain** | PyTorch, W&B, Docker, DGX-A100 |
+| Radio Signal Classifier | Transformer-based classifier — **96% accuracy** on DeepSig dataset | PyTorch, Transformers |
+| Object Detection (Autonomous Driving) | SSD pipeline fine-tuned on KITTI — **0.62 mAP** | PyTorch, TorchVision |
+
+---
+
+## 🛠️ Skills
+
+**ML/DL:** PyTorch · TensorFlow · Hugging Face · Scikit-Learn · ONNX  
+**CV:** OpenCV · TorchVision  
+**MLOps:** Docker · Weights & Biases · GitHub Actions · TensorBoard  
+**Languages:** Python · C++ · MATLAB  
+**Robotics:** ROS · Gazebo  
+
+---
+
+## 📊 GitHub Stats
+
+![Sreejith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=08-Sreejith-95&show_icons=true&theme=default&hide_border=true)
