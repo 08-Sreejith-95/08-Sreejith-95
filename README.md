@@ -34,6 +34,3 @@ Currently open to ML/DL Engineer roles.
 
 ---
 
-## 📊 GitHub Stats
-
-![Sreejith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=08-Sreejith-95&show_icons=true&theme=default&hide_border=true)
