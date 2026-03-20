@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 I build and research deep learning systems.
-Currently open to ML/DL Engineer roles in Germany.
+Currently open to ML/DL Engineer roles.
 
 ---
 
